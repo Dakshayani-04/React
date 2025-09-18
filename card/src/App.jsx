@@ -6,9 +6,6 @@ import './App.css'
 import Function from './FunctionComponent'
 import myimage from './assets/react.svg';
 import Component1 from './Component1'
-
-
-//git issues
 import Component2 from './Component2'
 
 function App() {
