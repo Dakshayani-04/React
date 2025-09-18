@@ -1,0 +1,7 @@
+.logo{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color:blue;
+    left:0px;
+}
