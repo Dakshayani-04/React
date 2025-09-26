@@ -9,6 +9,7 @@ const TodoComponent =()=>{
               <input type="text" placeholder="enter the task.............."
               onChange={(event)=>setNewTask(event.target.value)}/>
               <button onClick={addTask}>Add</button>
+              <button onClick={addTask}>Add</button>
             </div>
             
 
