@@ -1,7 +1,7 @@
 import React from "react";
-import './Home.css'
-import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
-const Home =()=>{
+import './Header.css'
+import { Link } from "react-router-dom";
+const Header =()=>{
 
     return(
     <>
@@ -13,4 +13,4 @@ const Home =()=>{
     </header>
     </>)
 }
-export default Home
+export default Header
