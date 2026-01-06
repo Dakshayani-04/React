@@ -5,9 +5,9 @@ import './App.css'
 // import Card from './CardMain'
 import Function from './FunctionComponent'
 import myimage from './assets/react.svg';
-// import Home from './Home'
-// import Services from './Services'
-// import Contact from './Contact'
+import Home from './Home'
+import Services from './Services'
+import Contact from './Contact'
 // import PageNotFound from './PageNotFound'
 import { BrowserRouter,Routes,Route } from 'react-router-dom'
 
